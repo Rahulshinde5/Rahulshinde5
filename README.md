@@ -24,14 +24,19 @@ I'm a passionate Data Scientist with a background in Nano World. I'm also well-v
 
 
 ### Skills 🛠️
-
 **Languages:**
- [![Python](https://img.shields.io/badge/Python-%E2%9C%A8-blue)](https://drive.google.com/file/d/1ADYAx39TPUwjfJZgKxWfo52rg_2UEOEo/view?usp=sharing) | **SQL:** [![SQL](https://img.shields.io/badge/SQL-%F0%9F%93%9D-orange)](https://drive.google.com/file/d/19b20AqV-tQRVta8TZeX8eHXSE3DvOo2K/view?usp=sharing)
+- [![Python](https://img.shields.io/badge/Python-%E2%9C%A8-blue)](https://drive.google.com/file/d/1ADYAx39TPUwjfJZgKxWfo52rg_2UEOEo/view?usp=sharing)
+- [![SQL](https://img.shields.io/badge/SQL-%F0%9F%93%9D-orange)](https://drive.google.com/file/d/19b20AqV-tQRVta8TZeX8eHXSE3DvOo2K/view?usp=sharing)
 
-**Tools:** 
-[![Tableau](https://img.shields.io/badge/Tableau-%F0%9F%93%8A-blueviolet)](https://www.tableau.com/) | [![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%88%20-green)](https://powerbi.microsoft.com/en-in/) | [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%F0%9F%94%8D%20-blue)](https://lookerstudio.google.com/navigation/reporting) | [![Excel](https://img.shields.io/badge/Excel-%F0%9F%93%88-green)](https://drive.google.com/file/d/1KsuJ-aJsf8ceF7OFo_de0W31av5fnuQW/view?usp=sharing)
+**Tools:**
+- [![Tableau](https://img.shields.io/badge/Tableau-%F0%9F%93%8A-blueviolet)](https://www.tableau.com/)
+- [![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%88%20-green)](https://powerbi.microsoft.com/en-in/)
+- [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%F0%9F%94%8D%20-blue)](https://lookerstudio.google.com/navigation/reporting)
+- [![Excel](https://img.shields.io/badge/Excel-%F0%9F%93%88-green)](https://drive.google.com/file/d/1KsuJ-aJsf8ceF7OFo_de0W31av5fnuQW/view?usp=sharing)
 
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-yellow)](https://drive.google.com/file/d/1myY4032HCiwIJLPAOPO7FEYOUxtr4EhS/view?usp=sharing) | [![Data Viz](https://img.shields.io/badge/Data%20Viz-%F0%9F%93%88-lightgrey)](https://drive.google.com/file/d/1V1KFa0eZFz0cXKbF_f9l6zZVp_HxgGFu/view?usp=sharing)
+**Machine Learning:**
+- [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-yellow)](https://drive.google.com/file/d/1myY4032HCiwIJLPAOPO7FEYOUxtr4EhS/view?usp=sharing)
+- [![Data Viz](https://img.shields.io/badge/Data%20Viz-%F0%9F%93%88-lightgrey)](https://drive.google.com/file/d/1V1KFa0eZFz0cXKbF_f9l6zZVp_HxgGFu/view?usp=sharing)
 
 
 ### Connect with Me 🌐
