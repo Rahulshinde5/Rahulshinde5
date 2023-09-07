@@ -19,7 +19,17 @@ I'm a passionate Data Scientist with a background in Nano World. I'm also well-v
 - [![Health Insurance Prediction](https://img.shields.io/badge/Insurance%20Prediction-%F0%9F%92%BC-green)](https://github.com/Rahulshinde5/Supervised-ML-Classifiacation-Project-/blob/main/README.md)
 - [![NYC Taxi Time Prediction](https://img.shields.io/badge/NYC%20Taxi%20Prediction-%F0%9F%9A%96-yellow)](https://github.com/Rahulshinde5/Machine-Learning-NYC-Taxi-Trip-Time-Prediction/blob/main/README.md)
 - [![Global Terrorism Analysis](https://img.shields.io/badge/Terrorism%20Analysis-%F0%9F%92%A3-blueviolet)](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/blob/main/README.md)
-  
+
+  ### Projects 🚀
+
+[![Ketoprofen Model](https://img.shields.io/badge/Ketoprofen-%F0%9F%8C%8C-green)](https://github.com/Rahulshinde5/ML-Based-Predictive-Modeling-for-Ketoprofen-Adsorbance/blob/main/README.md) | [![Netflix Clustering](https://img.shields.io/badge/Netflix%20Clustering-%E2%98%81-blue)](https://github.com/Rahulshinde5/Unsupervised-Machine-Learning-Project-/blob/main/README.md) | [![Insurance Prediction](https://img.shields.io/badge/Insurance%20Prediction-%F0%9F%92%BC-green)](https://github.com/Rahulshinde5/Supervised-ML-Classifiacation-Project-/blob/main/README.md) | [![NYC Taxi Prediction](https://img.shields.io/badge/NYC%20Taxi%20Prediction-%F0%9F%9A%96-yellow)](https://github.com/Rahulshinde5/Machine-Learning-NYC-Taxi-Trip-Time-Prediction/blob/main/README.md) | [![Terrorism Analysis](https://img.shields.io/badge/Terrorism%20Analysis-%F0%9F%92%A3-blueviolet)](https://github.com/Rahulshinde5/EDA-Global-Terrorism-Dataset/blob/main/README.md)
+
+
+### Interactive Dashboards 📊
+
+[![Google Merchant Analysis](https://img.shields.io/badge/Google%20Merchant%20Analysis-%F0%9F%93%88-green)](link-to-google-dashboard) | [![Cat vs Dog Popularity in US](https://img.shields.io/badge/Cat%20vs%20Dog%20Popularity-%F0%9F%90%B1%20%F0%9F%90%B6-blue)](link-to-cat-vs-dog-dashboard) | [![Global Terrorism Analysis](https://img.shields.io/badge/Global%20Terrorism%20Analysis-%F0%9F%92%A3%20%F0%9F%93%8A-red)](link-to-terrorism-dashboard)
+
+
 
 ### Skills 🛠️
 
