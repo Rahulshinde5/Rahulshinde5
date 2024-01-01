@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Scientist-%F0%9F%93%8A-blue" alt="Data Scientist">
-  <img src="https://img.shields.io/badge/Nanoscience%20Graduate-%F0%9F%94%8D-green" alt="Nanoscience Graduate">
+  <img src="https://img.shields.io/badge/Nanoscience%20Graduate-%F0%9F%94%8D-green" alt="Nanoscience Post Graduate">
   <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-%F0%9F%A4%96-orange" alt="Machine Learning Enthusiast">
 </p>
 
@@ -32,7 +32,7 @@ I'm a passionate Data Scientist with a background in Nano World. I'm also well-v
 - [![Tableau](https://img.shields.io/badge/Tableau-%F0%9F%93%8A-blueviolet)](https://www.tableau.com/)
 - [![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%88%20-green)](https://powerbi.microsoft.com/en-in/)
 - [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%F0%9F%94%8D%20-blue)](https://lookerstudio.google.com/navigation/reporting)
-- [![Excel](https://img.shields.io/badge/Excel-%F0%9F%93%88-green)](https://drive.google.com/file/d/1KsuJ-aJsf8ceF7OFo_de0W31av5fnuQW/view?usp=sharing)
+- [![Advanced Excel](https://img.shields.io/badge/Excel-%F0%9F%93%88-green)](https://drive.google.com/file/d/1KsuJ-aJsf8ceF7OFo_de0W31av5fnuQW/view?usp=sharing)
 
 **Machine Learning:**
 - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-yellow)](https://drive.google.com/file/d/1myY4032HCiwIJLPAOPO7FEYOUxtr4EhS/view?usp=sharing)
