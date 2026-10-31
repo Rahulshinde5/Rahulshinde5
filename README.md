@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=220&section=header&text=RAHUL%20SHINDE&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Turning%20Data%20Into%20Intelligence&descAlignY=58&animation=fadeIn" width="100%" alt="Rahul Shinde animated header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence;Fintech+Analytics+%26+Credit+Risk;Python+%7C+SQL+%7C+Machine+Learning;Building+AI-Powered+Analytics+Solutions" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Business+Analyst+%7C+Business+Intelligence;Fintech+Analytics+%26+Credit+Risk;Python+%7C+SQL+%7C+Machine+Learning;Building+AI-Powered+Analytics+Solutions" alt="Animated typing introduction"/>
 </a>
 
 <br/>
